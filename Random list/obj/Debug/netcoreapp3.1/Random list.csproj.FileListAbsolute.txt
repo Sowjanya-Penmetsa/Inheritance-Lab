@@ -1,0 +1,13 @@
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Lab\Random list\bin\Debug\netcoreapp3.1\Random list.exe
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Lab\Random list\bin\Debug\netcoreapp3.1\Random list.deps.json
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Lab\Random list\bin\Debug\netcoreapp3.1\Random list.runtimeconfig.json
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Lab\Random list\bin\Debug\netcoreapp3.1\Random list.runtimeconfig.dev.json
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Lab\Random list\bin\Debug\netcoreapp3.1\Random list.dll
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Lab\Random list\bin\Debug\netcoreapp3.1\Random list.pdb
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Lab\Random list\obj\Debug\netcoreapp3.1\Random list.csprojAssemblyReference.cache
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Lab\Random list\obj\Debug\netcoreapp3.1\Random list.csproj.CoreCompileInputs.cache
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Lab\Random list\obj\Debug\netcoreapp3.1\Random list.AssemblyInfoInputs.cache
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Lab\Random list\obj\Debug\netcoreapp3.1\Random list.AssemblyInfo.cs
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Lab\Random list\obj\Debug\netcoreapp3.1\Random list.dll
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Lab\Random list\obj\Debug\netcoreapp3.1\Random list.pdb
+C:\Users\Anvesh Penmetsa\source\repos\Inheritance Lab\Random list\obj\Debug\netcoreapp3.1\Random list.genruntimeconfig.cache
